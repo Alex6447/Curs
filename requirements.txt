@@ -1,0 +1,8 @@
+requests
+pydantic
+langchain
+langgraph
+tenacity
+fastapi
+sqlalchemy
+loguru
